@@ -1,0 +1,17 @@
+{
+  "name": "dracula-buffy-ThemeModalFileManager",
+  "version": "1.0.0",
+  "description": "The Dracula Buffy theme for Modal File Manager.",
+  "keywords": [
+    "modalfilemanager"
+  ],
+  "author": "Richard Guay",
+  "license": "MIT",
+  "mfmtheme": {
+    "name": "dracula-buffy-ThemeModalFileManager",
+    "description": "Dracula Buffy theme for Modal File Manager.",
+    "type": 0,
+    "github": "",
+    "main": "dracula-buffy.json"
+  }
+}
