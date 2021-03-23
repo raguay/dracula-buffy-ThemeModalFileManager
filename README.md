@@ -1,2 +1,3 @@
 # dracula-buffy-ThemeModalFileManager
-This is a variant of the Dracula theme for the Modal File Manager.
+
+This is the Buffy variant of the Dracula theme for the [Modal File Manager](https://github.com/raguay/ModalFileManager).
